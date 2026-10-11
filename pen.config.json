@@ -1,0 +1,28 @@
+{
+  "blocks": {
+    "classic-1": {
+      "createdAt": "2026-06-22T16:18:45.941883136Z",
+      "disabled": false,
+      "name": "classic-1",
+      "version": "latest"
+    },
+    "fingerprint-1": {
+      "createdAt": "2026-06-22T16:18:45.941883136Z",
+      "disabled": false,
+      "name": "fingerprint-1",
+      "version": "latest"
+    },
+    "packages-1": {
+      "createdAt": "2026-06-22T16:18:45.941883136Z",
+      "disabled": false,
+      "name": "packages-1",
+      "version": "latest"
+    },
+    "validate-1": {
+      "createdAt": "2026-06-22T16:18:45.941883136Z",
+      "disabled": false,
+      "name": "validate-1",
+      "version": "latest"
+    }
+  }
+}
